@@ -1,0 +1,9 @@
+package tuan2_baiTap1_SIngleton_Factory;
+
+public class LuxuryDeviceFactory implements DeviceFactory {
+	@Override
+    public SmartLight createLight() { return new LuxuryLight(); }
+    @Override
+    public SmartFan createFan() { return new LuxuryFan(); }
+
+}

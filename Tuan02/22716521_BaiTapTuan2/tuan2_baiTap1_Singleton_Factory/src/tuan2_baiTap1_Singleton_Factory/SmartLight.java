@@ -1,0 +1,6 @@
+package tuan2_baiTap1_SIngleton_Factory;
+
+public interface SmartLight {
+	void turnOn();
+
+}
