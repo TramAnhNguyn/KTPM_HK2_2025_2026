@@ -1,0 +1,6 @@
+{
+  "name": "my-react-app",
+  "scripts": {
+    "start": "node index.js"
+  }
+}
